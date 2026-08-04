@@ -8,14 +8,14 @@ public class q3 {
 
         Scanner sc = new Scanner(System.in);
 
-        // Input rows and columns
+        // rows
         System.out.print("Enter number of rows: ");
         int rows = sc.nextInt();
-
+        //cols
         System.out.print("Enter number of columns: ");
         int cols = sc.nextInt();
 
-        // Create a 2D array
+        // array creation
         int[][] arr = new int[rows][cols];
 
         // Input elements
@@ -26,6 +26,7 @@ public class q3 {
             for (int j = 0; j < cols; j++) {
 
                 arr[i][j] = sc.nextInt();
+
 
             }
         }
