@@ -1,5 +1,5 @@
 //count the number of 0s and 1s in an array
-package arrays_abs_beginner;
+package arrays2_abs_beginner;
 
 public class q5 {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //Write a Java program to multiply every element of an array by 10
-package arrays_abs_beginner;
+package arrays2_abs_beginner;
 
 public class q2 {
     public static void main(String [] args) {

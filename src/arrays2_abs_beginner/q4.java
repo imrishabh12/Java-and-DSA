@@ -1,5 +1,5 @@
 //find the sum of positive numbers and the sum of negative numbers in an array
-package arrays_abs_beginner;
+package arrays2_abs_beginner;
 
 public class q4 {
     public static void main(String[] args) {

@@ -6,7 +6,7 @@
 //3. If the element is found, print its index.
 //4. Otherwise, print "Element not found".
 
-package arrays_abs_beginner;
+package arrays2_abs_beginner;
 import java.util.Scanner;
 public class q3 {
     public static void main(String[] args){
