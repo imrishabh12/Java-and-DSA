@@ -15,7 +15,7 @@ public class q1 {
 
 
 //solving same question in diff style
-package arrays;
+package arrays_basics;
 import java.util.Scanner;
 public class q1 {
     public static void main(String[] args) {

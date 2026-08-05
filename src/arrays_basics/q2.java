@@ -1,5 +1,5 @@
 //Question 2 – Find the Maximum Element in an Array
-package arrays;
+package arrays_basics;
 
 public class q2 {
     public static void main(String[] args) {

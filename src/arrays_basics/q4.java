@@ -1,5 +1,5 @@
 //Finding the maximum value in a 2D Array
-package arrays;
+package arrays_basics;
 
 public class q4 {
     public static void main(String[] args){
@@ -73,4 +73,4 @@ public class q4 {
         System.out.println("Maximum element = " + max);
     }
 }
-/*
+*/
