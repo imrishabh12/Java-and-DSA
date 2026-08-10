@@ -14,7 +14,7 @@ public class q2 {
 
         //new array
         int[] arr2 = new int[n];
-        int j = 0;
+        int j = 0;// we need j when we know that new array might not get full
 
         //to store even num
         for (int i = 0; i<n; i++){
