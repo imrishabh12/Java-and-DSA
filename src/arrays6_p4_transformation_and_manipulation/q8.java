@@ -16,9 +16,6 @@ public class q8 {
         }
         arr[0] = temp;//s3)last elem to first
 
-
-
-
         for (int i = 0; i<n; i++){
             System.out.println(arr[i]);
         }
