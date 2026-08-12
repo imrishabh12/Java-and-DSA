@@ -1,12 +1,12 @@
-//vviq
+///vviq
 
-//Q4: Find the common elements between two arrays
+// Q5 - Find elements present in first array but NOT in second array.
 
 package arrays7_p4_aggregate_and_comparative_thinking;
 
 import java.util.Scanner;
 
-public class q4 {
+public class q5 {
 
     static void main() {
 
@@ -30,22 +30,28 @@ public class q4 {
             arr2[i] = sc.nextInt();
         }
 
-        System.out.println("Common elements:");
-
-        // Take every element from first array
+        // Check every element of first array
         for (int i = 0; i < n; i++) {
 
-            // Search for it in the second array
+            // Initially assume current element is not found
+            boolean found = false;
+
+            // Search current element inside second array
             for (int j = 0; j < n2; j++) {
 
                 if (arr[i] == arr2[j]) {
 
-                    // Common element found
-                    System.out.print(arr[i] + " ");
+                    // Element exists in second array
+                    found = true;
 
-                    // Stop searching for this element
+                    // No need to search further
                     break;
                 }
+            }
+
+            // If element was NOT found in second array
+            if (!found) {
+                System.out.print(arr[i] + " ");
             }
         }
     }
