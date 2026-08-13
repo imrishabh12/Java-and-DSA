@@ -1,3 +1,5 @@
+///VVVIIIQQQQ
+
 // Q6 - Find elements present in second array but NOT in first array.
 
 package arrays7_p4_aggregate_and_comparative_thinking;
