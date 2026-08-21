@@ -26,3 +26,4 @@ public class q10 {
         System.out.println("Product of digits = " + product);
     }
 }
+//last question
