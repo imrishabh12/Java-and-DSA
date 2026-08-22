@@ -58,7 +58,7 @@ public class q2 {
 
             equal = false;
 
-        } else {
+        } else {//now means arrays are of equal size
 
             // Keeps track of which elements of arr2 have already been used
             boolean[] visited = new boolean[n2];//If we didn't have visited, we could accidentally use the same 1 in arr2 twice.

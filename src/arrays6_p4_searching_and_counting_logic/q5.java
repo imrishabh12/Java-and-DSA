@@ -1,4 +1,6 @@
-//Q5-find the element that appears exactly once in an array.
+//vvviq
+
+//Q5-find the element that appears exactly once in an array
 package arrays6_p4_searching_and_counting_logic;
 import java.util.Scanner;
 public class q5 {

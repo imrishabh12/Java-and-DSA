@@ -1,3 +1,4 @@
+//viq
 //Q7 – Rotate an array by one position to the left.
 package arrays6_p4_transformation_and_manipulation;
 import java.util.Scanner;

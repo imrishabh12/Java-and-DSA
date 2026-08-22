@@ -1,7 +1,7 @@
 //Q3 - find the first occurrence of a given element in an array.
 
 //same as first ques
-// so just look it and skip
+// so just have a look at it and skip
 package arrays6_p4_searching_and_counting_logic;
 import java.util.Scanner;
 public class q3 {

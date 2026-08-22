@@ -1,3 +1,4 @@
+//viq
 // Q3 - Merge two arrays into a single array.
 
 package arrays7_p4_aggregate_and_comparative_thinking;

@@ -1,3 +1,4 @@
+//viq
 //Q2-Write a Java program to count how many times a given element appears in an array.
 package arrays6_p4_searching_and_counting_logic;
 import java.util.Scanner;
